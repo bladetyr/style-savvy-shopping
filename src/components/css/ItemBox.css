@@ -1,0 +1,25 @@
+.ItemContainer {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: x-large;
+    color: #515151;
+    font-weight: bold;
+    min-width: 363px;
+    max-width: 363px;
+    min-height: 407px;
+    max-height: 407px;
+    background-color: #EBECF0;
+    margin-right: 15px;
+    padding: 0px;
+    padding-top: 7px;
+    box-shadow:10px 10px 10px rgba(0, 0, 0, 0.2);
+}
+
+.ItemBox {
+    border: solid;
+    border-color: #e38f94;
+    border-width: 5px;
+    height: 330px;
+    width: 330px;
+    margin: 10px;
+}

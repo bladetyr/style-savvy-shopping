@@ -1,0 +1,34 @@
+.SiteTitle {
+    text-decoration: underline;
+    text-decoration-color: #F5C5C5;
+    font-size: xx-large;
+    color: #F1B2B5;
+    text-align: right;
+    width: 100%;
+    margin-right: 2%;
+}
+
+.NavBox {
+    display: flex;
+    align-items: center;
+    border-bottom: solid;
+    border-color: #BEBEBE;
+    border-width: 3px;;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 11%;
+    background-color: #EBECF0;
+    font-family:sans-serif;
+}
+
+.NavButtons {
+    text-decoration: none;
+    list-style: none;
+    font-size:larger;
+    font-weight: bold;
+    color: #F1B2B5;
+    float: left;
+    display: flex;
+    gap: 30px;
+}

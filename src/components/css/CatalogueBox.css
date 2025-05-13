@@ -1,0 +1,12 @@
+.CatalogueBox {
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 60%;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}

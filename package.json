@@ -1,6 +1,6 @@
 {
-  "homepage": "https://bladetyr.github.io/style-savvy-shopping",
   "name": "style-savvy-shopping",
+  "homepage": "https://bladetyr.github.io/style-savvy-shopping/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b gh_pages -d dist"
+    "deploy": "gh-pages -b deployment -d dist"
   },
   "dependencies": {
     "react": "^19.1.0",

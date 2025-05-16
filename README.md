@@ -9,7 +9,7 @@
 - Advertisement banner made by [Zavier Jimenez](https://sites.google.com/uarts.edu/zavierjimenezart)
 - Style Savvy customer image made Syn Sophia and published by Nintendo
 - Clothing sale icons from [JCPenney's](https://https://www.jcpenney.com)
-- font-awesome-css from [Font Awesome](https://fontawesome.com/v4/)
+- font-awesome css and webfonts from [Font Awesome](https://fontawesome.com/v4/)
 
 ## Intellectual Property
 - Style Savvy belongs to Nintendo

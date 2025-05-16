@@ -1,4 +1,5 @@
 import './css/NavBar.css';
+import './../assets/css/fontawesome-all.css';
 
 function NavBar(){
     return(
@@ -12,8 +13,6 @@ function NavBar(){
             {/*Right-side logo */}
             <div className="SiteTitle">
                 <b><i>Style Savvy</i></b>
-                {/*Import link for star */}
-                <link href="./css/font-awesome.css" rel="stylesheet"  type='text/css'></link>
                 <i className="fa fa-star fa-spin" aria-hidden="true" style={{ color:'#F5C5C5' }}></i>
             </div>
         </div>

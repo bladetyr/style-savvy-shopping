@@ -13,7 +13,7 @@ function NavBar(){
             <div className="SiteTitle">
                 <b><i>Style Savvy</i></b>
                 {/*Import link for star */}
-                <link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.css" rel="stylesheet"  type='text/css'></link>
+                <link href="./css/font-awesome.css" rel="stylesheet"  type='text/css'></link>
                 <i className="fa fa-star fa-spin" aria-hidden="true" style={{ color:'#F5C5C5' }}></i>
             </div>
         </div>
